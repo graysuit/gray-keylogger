@@ -1,0 +1,18 @@
+C:\Users\root\source\repos\gray\bin\Debug\gray.exe.config
+C:\Users\root\source\repos\gray\bin\Debug\gray.exe
+C:\Users\root\source\repos\gray\bin\Debug\gray.pdb
+C:\Users\root\source\repos\gray\obj\Debug\gray.Form1.resources
+C:\Users\root\source\repos\gray\obj\Debug\gray.Resources.resources
+C:\Users\root\source\repos\gray\obj\Debug\gray.vbproj.GenerateResource.cache
+C:\Users\root\source\repos\gray\obj\Debug\gray.exe
+C:\Users\root\source\repos\gray\obj\Debug\gray.pdb
+C:\Users\root\source\repos\gray\obj\Debug\gray.vbprojAssemblyReference.cache
+C:\Users\root\source\repos\Source code\Payload\bin\Debug\gray.exe.config
+C:\Users\root\source\repos\Source code\Payload\bin\Debug\gray.exe
+C:\Users\root\source\repos\Source code\Payload\bin\Debug\gray.pdb
+C:\Users\root\source\repos\Source code\Payload\obj\Debug\gray.vbprojAssemblyReference.cache
+C:\Users\root\source\repos\Source code\Payload\obj\Debug\gray.Form1.resources
+C:\Users\root\source\repos\Source code\Payload\obj\Debug\gray.Resources.resources
+C:\Users\root\source\repos\Source code\Payload\obj\Debug\gray.vbproj.GenerateResource.cache
+C:\Users\root\source\repos\Source code\Payload\obj\Debug\gray.exe
+C:\Users\root\source\repos\Source code\Payload\obj\Debug\gray.pdb

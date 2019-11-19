@@ -9,3 +9,14 @@ C:\Users\root\source\repos\Keylogger\obj\Debug\Keylogger.exe
 C:\Users\root\source\repos\Keylogger\obj\Debug\Keylogger.xml
 C:\Users\root\source\repos\Keylogger\obj\Debug\Keylogger.pdb
 C:\Users\root\source\repos\Keylogger\obj\Debug\Keylogger.vbprojAssemblyReference.cache
+C:\Users\root\source\repos\Gray Keylogger Source code\Keylogger\bin\Debug\Keylogger.exe.config
+C:\Users\root\source\repos\Gray Keylogger Source code\Keylogger\bin\Debug\Keylogger.exe
+C:\Users\root\source\repos\Gray Keylogger Source code\Keylogger\bin\Debug\Keylogger.pdb
+C:\Users\root\source\repos\Gray Keylogger Source code\Keylogger\bin\Debug\Keylogger.xml
+C:\Users\root\source\repos\Gray Keylogger Source code\Keylogger\obj\Debug\Keylogger.Form1.resources
+C:\Users\root\source\repos\Gray Keylogger Source code\Keylogger\obj\Debug\Keylogger.Resources.resources
+C:\Users\root\source\repos\Gray Keylogger Source code\Keylogger\obj\Debug\Keylogger.vbproj.GenerateResource.cache
+C:\Users\root\source\repos\Gray Keylogger Source code\Keylogger\obj\Debug\Keylogger.exe
+C:\Users\root\source\repos\Gray Keylogger Source code\Keylogger\obj\Debug\Keylogger.xml
+C:\Users\root\source\repos\Gray Keylogger Source code\Keylogger\obj\Debug\Keylogger.pdb
+C:\Users\root\source\repos\Gray Keylogger Source code\Keylogger\obj\Debug\Keylogger.LoginForm1.resources

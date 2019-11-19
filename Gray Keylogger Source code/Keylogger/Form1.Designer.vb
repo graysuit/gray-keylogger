@@ -30,6 +30,7 @@ Partial Class Form1
         Me.TextBox2 = New System.Windows.Forms.TextBox()
         Me.TabControl1 = New System.Windows.Forms.TabControl()
         Me.TabPage1 = New System.Windows.Forms.TabPage()
+        Me.LinkLabel2 = New System.Windows.Forms.LinkLabel()
         Me.Label11 = New System.Windows.Forms.Label()
         Me.TextBox12 = New System.Windows.Forms.TextBox()
         Me.Label10 = New System.Windows.Forms.Label()
@@ -59,14 +60,13 @@ Partial Class Form1
         Me.Label1 = New System.Windows.Forms.Label()
         Me.TextBox4 = New System.Windows.Forms.TextBox()
         Me.TabPage2 = New System.Windows.Forms.TabPage()
+        Me.Label14 = New System.Windows.Forms.Label()
+        Me.Label13 = New System.Windows.Forms.Label()
+        Me.Label12 = New System.Windows.Forms.Label()
         Me.OpenFileDialog1 = New System.Windows.Forms.OpenFileDialog()
         Me.ToolTip1 = New System.Windows.Forms.ToolTip(Me.components)
         Me.SaveFileDialog1 = New System.Windows.Forms.SaveFileDialog()
         Me.FolderBrowserDialog1 = New System.Windows.Forms.FolderBrowserDialog()
-        Me.Label12 = New System.Windows.Forms.Label()
-        Me.Label13 = New System.Windows.Forms.Label()
-        Me.LinkLabel2 = New System.Windows.Forms.LinkLabel()
-        Me.Label14 = New System.Windows.Forms.Label()
         Me.TabControl1.SuspendLayout()
         Me.TabPage1.SuspendLayout()
         Me.TabPage2.SuspendLayout()
@@ -163,6 +163,16 @@ Partial Class Form1
         Me.TabPage1.Size = New System.Drawing.Size(650, 422)
         Me.TabPage1.TabIndex = 0
         Me.TabPage1.Text = "Builder"
+        '
+        'LinkLabel2
+        '
+        Me.LinkLabel2.AutoSize = True
+        Me.LinkLabel2.Location = New System.Drawing.Point(387, 321)
+        Me.LinkLabel2.Name = "LinkLabel2"
+        Me.LinkLabel2.Size = New System.Drawing.Size(241, 25)
+        Me.LinkLabel2.TabIndex = 29
+        Me.LinkLabel2.TabStop = True
+        Me.LinkLabel2.Text = "Download .Net Framework"
         '
         'Label11
         '
@@ -457,24 +467,14 @@ Partial Class Form1
         Me.TabPage2.TabIndex = 1
         Me.TabPage2.Text = "Decrypt"
         '
-        'OpenFileDialog1
+        'Label14
         '
-        Me.OpenFileDialog1.FileName = "OpenFileDialog1"
-        '
-        'ToolTip1
-        '
-        Me.ToolTip1.ToolTipIcon = System.Windows.Forms.ToolTipIcon.Info
-        Me.ToolTip1.ToolTipTitle = "Information"
-        '
-        'Label12
-        '
-        Me.Label12.Location = New System.Drawing.Point(31, 175)
-        Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(581, 86)
-        Me.Label12.TabIndex = 4
-        Me.Label12.Text = "Whenever you recieve keylogs files from gmail, you will have to decrypt the files" &
-    " in order to see logs inside these files. Password will be same as you given whi" &
-    "le building payload"
+        Me.Label14.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label14.Location = New System.Drawing.Point(30, 66)
+        Me.Label14.Name = "Label14"
+        Me.Label14.Size = New System.Drawing.Size(163, 32)
+        Me.Label14.TabIndex = 6
+        Me.Label14.Text = "Password"
         '
         'Label13
         '
@@ -486,24 +486,24 @@ Partial Class Form1
     " to post archive or malicious text. But this also better that no one exept real " &
     "onwer can view the logs."
         '
-        'LinkLabel2
+        'Label12
         '
-        Me.LinkLabel2.AutoSize = True
-        Me.LinkLabel2.Location = New System.Drawing.Point(387, 321)
-        Me.LinkLabel2.Name = "LinkLabel2"
-        Me.LinkLabel2.Size = New System.Drawing.Size(241, 25)
-        Me.LinkLabel2.TabIndex = 29
-        Me.LinkLabel2.TabStop = True
-        Me.LinkLabel2.Text = "Download .Net Framework"
+        Me.Label12.Location = New System.Drawing.Point(31, 175)
+        Me.Label12.Name = "Label12"
+        Me.Label12.Size = New System.Drawing.Size(581, 86)
+        Me.Label12.TabIndex = 4
+        Me.Label12.Text = "Whenever you recieve keylogs files from gmail, you will have to decrypt the files" &
+    " in order to see logs inside these files. Password will be same as you given whi" &
+    "le building payload"
         '
-        'Label14
+        'OpenFileDialog1
         '
-        Me.Label14.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label14.Location = New System.Drawing.Point(30, 66)
-        Me.Label14.Name = "Label14"
-        Me.Label14.Size = New System.Drawing.Size(163, 32)
-        Me.Label14.TabIndex = 6
-        Me.Label14.Text = "Password"
+        Me.OpenFileDialog1.FileName = "OpenFileDialog1"
+        '
+        'ToolTip1
+        '
+        Me.ToolTip1.ToolTipIcon = System.Windows.Forms.ToolTipIcon.Info
+        Me.ToolTip1.ToolTipTitle = "Information"
         '
         'Form1
         '
@@ -513,6 +513,8 @@ Partial Class Form1
         Me.ClientSize = New System.Drawing.Size(682, 481)
         Me.Controls.Add(Me.TabControl1)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.MaximumSize = New System.Drawing.Size(698, 520)
+        Me.MinimumSize = New System.Drawing.Size(698, 520)
         Me.Name = "Form1"
         Me.Text = "Gray Keylogger"
         Me.TabControl1.ResumeLayout(False)

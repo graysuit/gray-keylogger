@@ -1,5 +1,5 @@
 <h1> Gray Windows Keylogger - Written every line of code with hands</h1>
-<p> Gray Windows Keylogger is undetectable untill 20/NOV/2019 now which can generate windows virus file. On clicking this file, it will start capturing keyboard keystrokes and send it by gmail you provided.</p>
+<p> Gray Windows Keylogger is undetectable untill 20/NOV/2019 now which can generate windows virus file. On clicking this file, it will start capturing keyboard keystrokes and send it by gmail you provided. See also <a href="https://github.com/graysuit/gray-keylogger-2">Gray Keylogger 2</a>.</p>
 <h2> Gray Keylogger user & pass:</h2>
 <ul><li>Username = graysuit</li>
 <li>Password = grayroot</li></ul>
